@@ -840,6 +840,14 @@ ambassador_claire.jsp
 ambassador_Colin_Ramsey.jsp
 ambassador_denise.jsp
 ambassador_heidi_riedel.jsp
+loginSucceded.jsp
+loginFailed.jsp
+loginSuccess.jsp
+loginFail.jsp
+loginAccepted.jsp
+loginSuccessfull.jsp
+loginTrue.jsp
+loginFalse.jsp
 ambassador_helena_burton.jsp
 ambassador_jacques_des_haes.jsp
 ambassador_jane.jsp
